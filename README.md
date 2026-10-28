@@ -46,18 +46,6 @@ The modest R² is typical for behavior prediction from fMRI connectivity, where 
 - Prefrontal and posterior cingulate connectivity emerged as the main hotspots in the cortical projection.
 - Reaction time appears to reflect a balance between visuolinguistic coupling and somatomotor/default-mode/control-network recruitment.
 
-## Repository contents
-
-```
-.
-├── <your-notebook-name>.ipynb   # Full pipeline: preprocessing, modeling, visualization
-├── report.pdf                   # Project paper (optional)
-├── figures/                     # Exported figures (optional)
-└── README.md
-```
-
-Replace the notebook name above with your actual file name.
-
 ## How to run
 
 1. Clone the repository.
